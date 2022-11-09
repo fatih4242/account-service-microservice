@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping("account")
 /**
  * localhost:8080/account
- * GET PUT DELETE POST
+ * GET, PUT, DELETE, POST
  */
 public class AccountApi {
 
